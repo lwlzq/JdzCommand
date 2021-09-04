@@ -1,6 +1,6 @@
 <?php
 
-namespace Liuweiliang;
+namespace Liuweiliang\Liuweiliang;
 
 use Illuminate\Console\Command;
 
