@@ -1,0 +1,15 @@
+{
+    "name": "liuweiliang/jdz-command",
+    "autoload": {
+        "psr-4": {
+            "Liuweiliang\\JdzCommand\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lwlzq",
+            "email": "50298602+lwlzq@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
