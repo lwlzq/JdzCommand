@@ -1,8 +1,8 @@
 {
-    "name": "liuweiliang/jdz-command",
+    "name": "liuweiliang/jdzcommand",
     "autoload": {
         "psr-4": {
-            "Liuweiliang\\JdzCommand\\": "src/"
+            "Liuweiliang\\Liuweiliang\\": "src/"
         }
     },
     "authors": [
